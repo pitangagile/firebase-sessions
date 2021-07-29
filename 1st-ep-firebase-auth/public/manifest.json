@@ -1,0 +1,7 @@
+{
+  "name": "Ep. 1 - Firebase Auth",
+  "short_name": "Ep. 1 - Fb Auth",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
